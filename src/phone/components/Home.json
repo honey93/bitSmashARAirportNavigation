@@ -30,13 +30,13 @@
                     "widget-name": "Counter2",
                     "is-widget-container": "true",
                     "src": "Uploaded/Reception 01_Med.pvz",
-                    "scale": "0.0900",
-                    "x": "-12.5378",
-                    "y": "-0.1495",
-                    "z": "-13.8386",
-                    "rx": "-0.17",
-                    "ry": "2.41",
-                    "rz": "-4.05"
+                    "scale": "0.3000",
+                    "x": "-12.2719",
+                    "y": "-4.8260",
+                    "z": "-13.8499",
+                    "rx": "-0.02",
+                    "ry": "2.42",
+                    "rz": "-0.50"
                   },
                   "name": "twx-dt-model",
                   "children": [
@@ -52,10 +52,10 @@
                     "widget-name": "Counter1",
                     "is-widget-container": "true",
                     "src": "Uploaded/Reception 01_Med.pvz",
-                    "scale": "0.0500",
-                    "x": "-22.1839",
-                    "y": "0.2895",
-                    "z": "6.9456",
+                    "scale": "0.3000",
+                    "x": "-17.5336",
+                    "y": "-2.7689",
+                    "z": "46.9532",
                     "rx": "-2.00",
                     "ry": "6.63",
                     "rz": "-0.00"
@@ -74,13 +74,13 @@
                     "widget-name": "Counter3",
                     "is-widget-container": "true",
                     "src": "Uploaded/Reception 01_Med.pvz",
-                    "scale": "0.0500",
-                    "x": "5.6325",
-                    "y": "0.4559",
-                    "z": "-28.2126",
+                    "scale": "0.3000",
+                    "x": "34.9183",
+                    "y": "-4.1236",
+                    "z": "-31.6246",
                     "rx": "0.10",
                     "ry": "6.63",
-                    "rz": "-0.00"
+                    "rz": "0.00"
                   },
                   "name": "twx-dt-model",
                   "children": [
@@ -99,7 +99,8 @@
                     "z": "34.2518",
                     "rx": "-90.00",
                     "ry": "0.00",
-                    "rz": "0.00"
+                    "rz": "0.00",
+                    "enablescalegesture": "true"
                   },
                   "name": "twx-dt-target-spatial"
                 },
@@ -110,12 +111,12 @@
                     "state-format-value": "text",
                     "widget-name": "3DLabel-1",
                     "text": "Your Airline Counter",
-                    "height": "5",
-                    "width": "15",
+                    "height": "15",
+                    "width": "30",
                     "scale": "1.0000",
-                    "x": "-7.0148",
-                    "y": "12.4542",
-                    "z": "-11.0842",
+                    "x": "-13.1417",
+                    "y": "39.1310",
+                    "z": "-18.9104",
                     "rx": "-18.59",
                     "ry": "30.42",
                     "rz": "3.27"
@@ -129,13 +130,13 @@
                     "widget-name": "model-9",
                     "is-widget-container": "true",
                     "src": "Uploaded/15797 Pointer_v1_new.pvz",
-                    "scale": "0.2000",
-                    "x": "0.9534",
-                    "y": "7.4534",
-                    "z": "-7.8978",
-                    "rx": "156.10",
-                    "ry": "-17.80",
-                    "rz": "100.10"
+                    "scale": "0.8000",
+                    "x": "36.4692",
+                    "y": "-9.9735",
+                    "z": "59.3420",
+                    "rx": "117.32",
+                    "ry": "-23.19",
+                    "rz": "92.78"
                   },
                   "name": "twx-dt-model",
                   "children": [
@@ -151,10 +152,10 @@
                     "widget-name": "model-1",
                     "is-widget-container": "true",
                     "src": "Uploaded/15797 Pointer_v1_new.pvz",
-                    "scale": "0.2000",
-                    "x": "11.1906",
-                    "y": "2.2701",
-                    "z": "3.5585",
+                    "scale": "0.8000",
+                    "x": "-1.9926",
+                    "y": "12.6454",
+                    "z": "-6.1524",
                     "rx": "130.48",
                     "ry": "-17.80",
                     "rz": "100.10"
@@ -173,13 +174,35 @@
                     "widget-name": "model-2",
                     "is-widget-container": "true",
                     "src": "Uploaded/15797 Pointer_v1_new.pvz",
-                    "scale": "0.2000",
-                    "x": "19.5472",
-                    "y": "0.7685",
-                    "z": "16.4741",
+                    "scale": "0.8000",
+                    "x": "27.7865",
+                    "y": "6.3345",
+                    "z": "29.7744",
                     "rx": "129.51",
                     "ry": "-20.16",
                     "rz": "103.07"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "model-3",
+                    "widget-name": "model-3",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/rp_mei_posed_001_100k_Med.pvz",
+                    "scale": "0.4000",
+                    "x": "-44.9837",
+                    "y": "-0.1611",
+                    "z": "-40.8424",
+                    "rx": "0.00",
+                    "ry": "48.66",
+                    "rz": "0.00"
                   },
                   "name": "twx-dt-model",
                   "children": [
