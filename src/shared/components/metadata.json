@@ -1,0 +1,420 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "requires": [
+    "w320dp",
+    "spatial-tracking"
+  ],
+  "experiences": [
+    {
+      "vumark": "",
+      "experienceType": "none",
+      "id": 1,
+      "index-keys": [],
+      "title": {
+        "en": "PathToCounter"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "Home",
+      "url-template": "index.html?expId=1",
+      "entryPoint": "index.html?expId=1",
+      "thumbnail": "",
+      "thingTemplateName": ""
+    }
+  ],
+  "widgetsUsage": [
+    {
+      "timestamp": "2021-09-29T06:59:43.014Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:01:49.804Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:04:01.230Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:07:35.797Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:09:45.197Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:12:35.361Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:14:25.890Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:15:46.232Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:17:44.312Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:23:48.022Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-tml-text": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:24:56.049Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:27:03.537Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:27:36.715Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:28:48.782Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:31:05.884Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:32:37.035Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:33:30.155Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 7,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:40:45.167Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:42:54.441Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:44:31.529Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:46:08.281Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:48:14.591Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:54:00.036Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:56:00.307Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:57:10.858Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:58:42.816Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T07:59:01.084Z",
+      "action": "PUBLISH",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    },
+    {
+      "timestamp": "2021-09-29T08:05:18.112Z",
+      "action": "LATEST_SAVE",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 6,
+        "twx-dt-target-spatial": 1,
+        "twx-dt-label": 1,
+        "twx-overlay": 1,
+        "twx-overlay-body": 1,
+        "twx-overlay-container": 4
+      }
+    }
+  ],
+  "accessType": "public",
+  "designedfor": []
+}
